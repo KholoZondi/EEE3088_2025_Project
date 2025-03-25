@@ -1,0 +1,28 @@
+general q's:
+where are the drill holes?
+	-all the yellow filled circles
+
+what input are we getting since motors are bidirectional
+are the auxillary motors for steering
+	-they are currently immaginary. For the time being, we will only be physically connecting 2 motos but we are adding in the capacity to connect 2 more future motors
+
+
+clarrify requirement 7, 3v3 in?
+	-similar to breadboard power sub system - just need to provide output 	pins
+
+
+
+
+report:
+block diagram: transfer behaviour shown in blocks and signals ( 3v3 input, DC ) shown with lines 
+
+interface diagram: analogous to programming: shows what are data types passed into and out of function
+with hardware - need to show what voltages go in and out, what signals, etc
+
+
+
+bread board memo:
+
+boost converter since linear voltage regulators have a minimum input that they regulate from
+
+each motor has 2 physical connectors
