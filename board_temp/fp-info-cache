@@ -1,4 +1,4 @@
-24699579783913911
+24706551741605107
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -99371,6 +99371,34 @@ R0402 footprint C4109
 0
 2
 2
+xxcustom_footprint
+SC-70-6_L2.2-W1.3-P0.65-LS2.1-BR
+SC-70-6_L2.2-W1.3-P0.65-LS2.1-BR footprint
+SC-70-6_L2.2-W1.3-P0.65-LS2.1-BR footprint C38663
+0
+6
+6
+xxcustom_footprint
+SMA_L4.3-W2.6-LS5.2-RD
+SMA_L4.3-W2.6-LS5.2-RD footprint
+SMA_L4.3-W2.6-LS5.2-RD footprint C8678
+0
+2
+2
+xxcustom_footprint
+SW-TH_XKB_SK22D15L7
+SW-TH_XKB_SK22D15L7 footprint
+SW-TH_XKB_SK22D15L7 footprint C2884795
+0
+8
+8
+xxcustom_footprint
+TDFN-6_L2.0-W2.0-P0.65-TL-EP
+TDFN-6_L2.0-W2.0-P0.65-TL-EP footprint
+TDFN-6_L2.0-W2.0-P0.65-TL-EP footprint C22373734
+0
+7
+7
 xxcustom_footprint
 TO-263-5_L10.2-W8.9-P1.70-TL
 TO-263-5_L10.2-W8.9-P1.70-TL footprint

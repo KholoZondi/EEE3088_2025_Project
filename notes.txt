@@ -26,3 +26,17 @@ bread board memo:
 boost converter since linear voltage regulators have a minimum input that they regulate from
 
 each motor has 2 physical connectors
+
+
+
+
+
+
+check if A0,A1 addresses are correct based on master slave relation
+are our board economic for preffered
+
+
+
+battery - ina - charg - switch - rest of circuit
+
+2 states: On+charge | off+charge
