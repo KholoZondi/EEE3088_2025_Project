@@ -7477,7 +7477,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "0.1"
+		(property "Value" "0.2A"
 			(at 24.13 101.5999 0)
 			(effects
 				(font
@@ -7486,7 +7486,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "xxcustom_footprint:R2512"
 			(at 24.892 100.33 90)
 			(effects
 				(font

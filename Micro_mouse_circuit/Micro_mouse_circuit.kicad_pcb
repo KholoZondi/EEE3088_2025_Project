@@ -144,7 +144,7 @@
 	(footprint "Package_TO_SOT_SMD:SOT-23-8"
 		(layer "F.Cu")
 		(uuid "074b13d5-5ca7-4b3f-9c2b-d95e6269f4ef")
-		(at 206.8625 82.325)
+		(at 176 99)
 		(descr "SOT, 8 Pin (JEDEC MO-178 Var BA https://www.jedec.org/document_search?search_api_views_fulltext=MO-178), generated with kicad-footprint-generator ipc_gullwing_generator.py")
 		(tags "SOT TO_SOT_SMD")
 		(property "Reference" "U6"
@@ -458,7 +458,7 @@
 	(footprint "xxcustom_footprint:L0805"
 		(layer "F.Cu")
 		(uuid "0ead9a53-e805-40e8-8ff4-3f120d84c9a2")
-		(at 199.533782 69.213996)
+		(at 152.533782 67.713996)
 		(descr "L0805 footprint")
 		(tags "L0805 footprint C1046")
 		(property "Reference" "L2"
@@ -495,7 +495,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://jlcpcb.com/partdetail/Sunlord-SDFL2012S100KTF/C1046"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -528,7 +528,7 @@
 			(start -1.945263 -0.761951)
 			(end -1.945263 0.635052)
 			(stroke
-				(width 0.254001)
+				(width 0.254)
 				(type solid)
 			)
 			(layer "F.SilkS")
@@ -538,7 +538,7 @@
 			(start -1.945263 0.635052)
 			(end -1.945263 0.762052)
 			(stroke
-				(width 0.254001)
+				(width 0.254)
 				(type solid)
 			)
 			(layer "F.SilkS")
@@ -548,7 +548,7 @@
 			(start -1.945263 0.762052)
 			(end -1.691262 1.016053)
 			(stroke
-				(width 0.254001)
+				(width 0.254)
 				(type solid)
 			)
 			(layer "F.SilkS")
@@ -558,7 +558,7 @@
 			(start -1.691262 -1.015951)
 			(end -1.945263 -0.761951)
 			(stroke
-				(width 0.254001)
+				(width 0.254)
 				(type solid)
 			)
 			(layer "F.SilkS")
@@ -568,7 +568,7 @@
 			(start -1.691262 1.016053)
 			(end -0.42126 1.016053)
 			(stroke
-				(width 0.254001)
+				(width 0.254)
 				(type solid)
 			)
 			(layer "F.SilkS")
@@ -578,7 +578,7 @@
 			(start -1.564262 -1.015951)
 			(end -1.691262 -1.015951)
 			(stroke
-				(width 0.254001)
+				(width 0.254)
 				(type solid)
 			)
 			(layer "F.SilkS")
@@ -588,7 +588,7 @@
 			(start -0.42126 -1.015951)
 			(end -1.564262 -1.015951)
 			(stroke
-				(width 0.254001)
+				(width 0.254)
 				(type solid)
 			)
 			(layer "F.SilkS")
@@ -598,7 +598,7 @@
 			(start 0.340742 1.016053)
 			(end 1.483744 1.016053)
 			(stroke
-				(width 0.254001)
+				(width 0.254)
 				(type solid)
 			)
 			(layer "F.SilkS")
@@ -608,7 +608,7 @@
 			(start 1.483744 1.016053)
 			(end 1.610744 1.016053)
 			(stroke
-				(width 0.254001)
+				(width 0.254)
 				(type solid)
 			)
 			(layer "F.SilkS")
@@ -618,7 +618,7 @@
 			(start 1.610744 -1.015951)
 			(end 0.340742 -1.015951)
 			(stroke
-				(width 0.254001)
+				(width 0.254)
 				(type solid)
 			)
 			(layer "F.SilkS")
@@ -628,7 +628,7 @@
 			(start 1.610744 1.016053)
 			(end 1.864745 0.762052)
 			(stroke
-				(width 0.254001)
+				(width 0.254)
 				(type solid)
 			)
 			(layer "F.SilkS")
@@ -638,7 +638,7 @@
 			(start 1.864745 -0.761951)
 			(end 1.610744 -1.015951)
 			(stroke
-				(width 0.254001)
+				(width 0.254)
 				(type solid)
 			)
 			(layer "F.SilkS")
@@ -648,7 +648,7 @@
 			(start 1.864745 -0.63495)
 			(end 1.864745 -0.761951)
 			(stroke
-				(width 0.254001)
+				(width 0.254)
 				(type solid)
 			)
 			(layer "F.SilkS")
@@ -658,7 +658,7 @@
 			(start 1.864745 0.762052)
 			(end 1.864745 -0.63495)
 			(stroke
-				(width 0.254001)
+				(width 0.254)
 				(type solid)
 			)
 			(layer "F.SilkS")
@@ -719,7 +719,7 @@
 	(footprint "xxcustom_footprint:SW-TH_XKB_SK22D15L7"
 		(layer "F.Cu")
 		(uuid "1396cf69-d3bc-4ce2-a1ca-47081fb3af10")
-		(at 158 63.749936)
+		(at 116.5 111.249936)
 		(descr "SW-TH_XKB_SK22D15L7 footprint")
 		(tags "SW-TH_XKB_SK22D15L7 footprint C2884795")
 		(property "Reference" "U2"
@@ -1453,7 +1453,7 @@
 	(footprint "xxcustom_footprint:ESOP-8_L4.9-W3.9-P1.27-LS6.0-BL-EP"
 		(layer "F.Cu")
 		(uuid "26af3f6b-39ce-4437-a131-164c6fd63020")
-		(at 178 102)
+		(at 164 90.5)
 		(descr "ESOP-8_L4.9-W3.9-P1.27-LS6.0-BL-EP footprint")
 		(tags "ESOP-8_L4.9-W3.9-P1.27-LS6.0-BL-EP footprint C382139")
 		(property "Reference" "U4"
@@ -2269,7 +2269,7 @@
 	(footprint "Connector_JST:JST_PH_S2B-PH-K_1x02_P2.00mm_Horizontal"
 		(layer "F.Cu")
 		(uuid "656735df-5e92-497d-9078-7e8318744715")
-		(at 170.285076 87.925013)
+		(at 175 109.5)
 		(descr "JST PH series connector, S2B-PH-K (http://www.jst-mfg.com/product/pdf/eng/ePH.pdf), generated with kicad-footprint-generator")
 		(tags "connector JST PH top entry")
 		(property "Reference" "J3"
@@ -2797,7 +2797,7 @@
 	(footprint "xxcustom_footprint:TO-263-5_L10.2-W8.9-P1.70-TL"
 		(layer "F.Cu")
 		(uuid "70594d8d-7900-4106-8c75-b49db420a587")
-		(at 177.267996 60.5)
+		(at 172.5 67.5)
 		(descr "TO-263-5_L10.2-W8.9-P1.70-TL footprint")
 		(tags "TO-263-5_L10.2-W8.9-P1.70-TL footprint C10002")
 		(property "Reference" "U3"
@@ -3033,7 +3033,7 @@
 	(footprint "xxcustom_footprint:SMA_L4.3-W2.6-LS5.2-RD"
 		(layer "F.Cu")
 		(uuid "a4f90dcc-c489-40ef-bd73-ed76061a4b7f")
-		(at 189.5 75.5)
+		(at 158.5 80)
 		(descr "SMA_L4.3-W2.6-LS5.2-RD footprint")
 		(tags "SMA_L4.3-W2.6-LS5.2-RD footprint C8678")
 		(property "Reference" "D1"
@@ -3216,7 +3216,7 @@
 	(footprint "xxcustom_footprint:L0805"
 		(layer "F.Cu")
 		(uuid "ad6ac28b-e4c8-43c8-9f10-eee52cd50948")
-		(at 199.533782 65.927992)
+		(at 152.533782 64.427992)
 		(descr "L0805 footprint")
 		(tags "L0805 footprint C1046")
 		(property "Reference" "L1"
@@ -3253,7 +3253,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://jlcpcb.com/partdetail/Sunlord-SDFL2012S100KTF/C1046"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -3286,7 +3286,7 @@
 			(start -1.945263 -0.761951)
 			(end -1.945263 0.635052)
 			(stroke
-				(width 0.254001)
+				(width 0.254)
 				(type solid)
 			)
 			(layer "F.SilkS")
@@ -3296,7 +3296,7 @@
 			(start -1.945263 0.635052)
 			(end -1.945263 0.762052)
 			(stroke
-				(width 0.254001)
+				(width 0.254)
 				(type solid)
 			)
 			(layer "F.SilkS")
@@ -3306,7 +3306,7 @@
 			(start -1.945263 0.762052)
 			(end -1.691262 1.016053)
 			(stroke
-				(width 0.254001)
+				(width 0.254)
 				(type solid)
 			)
 			(layer "F.SilkS")
@@ -3316,7 +3316,7 @@
 			(start -1.691262 -1.015951)
 			(end -1.945263 -0.761951)
 			(stroke
-				(width 0.254001)
+				(width 0.254)
 				(type solid)
 			)
 			(layer "F.SilkS")
@@ -3326,7 +3326,7 @@
 			(start -1.691262 1.016053)
 			(end -0.42126 1.016053)
 			(stroke
-				(width 0.254001)
+				(width 0.254)
 				(type solid)
 			)
 			(layer "F.SilkS")
@@ -3336,7 +3336,7 @@
 			(start -1.564262 -1.015951)
 			(end -1.691262 -1.015951)
 			(stroke
-				(width 0.254001)
+				(width 0.254)
 				(type solid)
 			)
 			(layer "F.SilkS")
@@ -3346,7 +3346,7 @@
 			(start -0.42126 -1.015951)
 			(end -1.564262 -1.015951)
 			(stroke
-				(width 0.254001)
+				(width 0.254)
 				(type solid)
 			)
 			(layer "F.SilkS")
@@ -3356,7 +3356,7 @@
 			(start 0.340742 1.016053)
 			(end 1.483744 1.016053)
 			(stroke
-				(width 0.254001)
+				(width 0.254)
 				(type solid)
 			)
 			(layer "F.SilkS")
@@ -3366,7 +3366,7 @@
 			(start 1.483744 1.016053)
 			(end 1.610744 1.016053)
 			(stroke
-				(width 0.254001)
+				(width 0.254)
 				(type solid)
 			)
 			(layer "F.SilkS")
@@ -3376,7 +3376,7 @@
 			(start 1.610744 -1.015951)
 			(end 0.340742 -1.015951)
 			(stroke
-				(width 0.254001)
+				(width 0.254)
 				(type solid)
 			)
 			(layer "F.SilkS")
@@ -3386,7 +3386,7 @@
 			(start 1.610744 1.016053)
 			(end 1.864745 0.762052)
 			(stroke
-				(width 0.254001)
+				(width 0.254)
 				(type solid)
 			)
 			(layer "F.SilkS")
@@ -3396,7 +3396,7 @@
 			(start 1.864745 -0.761951)
 			(end 1.610744 -1.015951)
 			(stroke
-				(width 0.254001)
+				(width 0.254)
 				(type solid)
 			)
 			(layer "F.SilkS")
@@ -3406,7 +3406,7 @@
 			(start 1.864745 -0.63495)
 			(end 1.864745 -0.761951)
 			(stroke
-				(width 0.254001)
+				(width 0.254)
 				(type solid)
 			)
 			(layer "F.SilkS")
@@ -3416,7 +3416,7 @@
 			(start 1.864745 0.762052)
 			(end 1.864745 -0.63495)
 			(stroke
-				(width 0.254001)
+				(width 0.254)
 				(type solid)
 			)
 			(layer "F.SilkS")
@@ -3477,7 +3477,7 @@
 	(footprint "xxcustom_footprint:L0805"
 		(layer "F.Cu")
 		(uuid "c7b292a6-e7ef-4533-ada6-5aa3f843571d")
-		(at 199.533782 72.5)
+		(at 152.533782 71)
 		(descr "L0805 footprint")
 		(tags "L0805 footprint C1046")
 		(property "Reference" "L3"
@@ -3514,7 +3514,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://jlcpcb.com/partdetail/Sunlord-SDFL2012S100KTF/C1046"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -3547,7 +3547,7 @@
 			(start -1.945263 -0.761951)
 			(end -1.945263 0.635052)
 			(stroke
-				(width 0.254001)
+				(width 0.254)
 				(type solid)
 			)
 			(layer "F.SilkS")
@@ -3557,7 +3557,7 @@
 			(start -1.945263 0.635052)
 			(end -1.945263 0.762052)
 			(stroke
-				(width 0.254001)
+				(width 0.254)
 				(type solid)
 			)
 			(layer "F.SilkS")
@@ -3567,7 +3567,7 @@
 			(start -1.945263 0.762052)
 			(end -1.691262 1.016053)
 			(stroke
-				(width 0.254001)
+				(width 0.254)
 				(type solid)
 			)
 			(layer "F.SilkS")
@@ -3577,7 +3577,7 @@
 			(start -1.691262 -1.015951)
 			(end -1.945263 -0.761951)
 			(stroke
-				(width 0.254001)
+				(width 0.254)
 				(type solid)
 			)
 			(layer "F.SilkS")
@@ -3587,7 +3587,7 @@
 			(start -1.691262 1.016053)
 			(end -0.42126 1.016053)
 			(stroke
-				(width 0.254001)
+				(width 0.254)
 				(type solid)
 			)
 			(layer "F.SilkS")
@@ -3597,7 +3597,7 @@
 			(start -1.564262 -1.015951)
 			(end -1.691262 -1.015951)
 			(stroke
-				(width 0.254001)
+				(width 0.254)
 				(type solid)
 			)
 			(layer "F.SilkS")
@@ -3607,7 +3607,7 @@
 			(start -0.42126 -1.015951)
 			(end -1.564262 -1.015951)
 			(stroke
-				(width 0.254001)
+				(width 0.254)
 				(type solid)
 			)
 			(layer "F.SilkS")
@@ -3617,7 +3617,7 @@
 			(start 0.340742 1.016053)
 			(end 1.483744 1.016053)
 			(stroke
-				(width 0.254001)
+				(width 0.254)
 				(type solid)
 			)
 			(layer "F.SilkS")
@@ -3627,7 +3627,7 @@
 			(start 1.483744 1.016053)
 			(end 1.610744 1.016053)
 			(stroke
-				(width 0.254001)
+				(width 0.254)
 				(type solid)
 			)
 			(layer "F.SilkS")
@@ -3637,7 +3637,7 @@
 			(start 1.610744 -1.015951)
 			(end 0.340742 -1.015951)
 			(stroke
-				(width 0.254001)
+				(width 0.254)
 				(type solid)
 			)
 			(layer "F.SilkS")
@@ -3647,7 +3647,7 @@
 			(start 1.610744 1.016053)
 			(end 1.864745 0.762052)
 			(stroke
-				(width 0.254001)
+				(width 0.254)
 				(type solid)
 			)
 			(layer "F.SilkS")
@@ -3657,7 +3657,7 @@
 			(start 1.864745 -0.761951)
 			(end 1.610744 -1.015951)
 			(stroke
-				(width 0.254001)
+				(width 0.254)
 				(type solid)
 			)
 			(layer "F.SilkS")
@@ -3667,7 +3667,7 @@
 			(start 1.864745 -0.63495)
 			(end 1.864745 -0.761951)
 			(stroke
-				(width 0.254001)
+				(width 0.254)
 				(type solid)
 			)
 			(layer "F.SilkS")
@@ -3677,7 +3677,7 @@
 			(start 1.864745 0.762052)
 			(end 1.864745 -0.63495)
 			(stroke
-				(width 0.254001)
+				(width 0.254)
 				(type solid)
 			)
 			(layer "F.SilkS")
@@ -3738,7 +3738,7 @@
 	(footprint "xxcustom_footprint:TDFN-6_L2.0-W2.0-P0.65-TL-EP"
 		(layer "F.Cu")
 		(uuid "d1eec316-d09e-4986-b54a-d2b62122eb81")
-		(at 144.110971 81.78297)
+		(at 123.999924 99.850038)
 		(descr "TDFN-6_L2.0-W2.0-P0.65-TL-EP footprint")
 		(tags "TDFN-6_L2.0-W2.0-P0.65-TL-EP footprint C22373734")
 		(property "Reference" "U1"
@@ -4940,5 +4940,309 @@
 				(xyz 0 0 0)
 			)
 		)
+	)
+	(footprint "xxcustom_footprint:R2512"
+		(layer "F.Cu")
+		(uuid "f85b5330-8f3c-416f-8f66-c69d6510d75e")
+		(at 176.433706 104)
+		(descr "R2512 footprint")
+		(tags "R2512 footprint C459674")
+		(property "Reference" "R8"
+			(at 0 -3.956591 0)
+			(layer "F.SilkS")
+			(uuid "a3fbc0b0-2a2a-4bd0-a2e6-fc73fc010559")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Value" "0.2A"
+			(at 0 3.956591 0)
+			(layer "F.Fab")
+			(uuid "f120e76b-b89d-4b12-9ee5-ec556a05d131")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Footprint" "xxcustom_footprint:R2512"
+			(at 0 0 0)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "c5f12499-7604-4a6b-b9a8-16afd5ced5c3")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 0 0 0)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "883f2217-83dd-4fc3-8dc8-fa0cda1327e0")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Description" "Shunt resistor"
+			(at 0 0 0)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "190ed4b3-effe-43f7-a892-222957a265cd")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property ki_fp_filters "R_*Shunt*")
+		(path "/73486890-cb04-41a7-9e34-0a85199cbd89")
+		(sheetname "Root")
+		(sheetfile "Micro_mouse_circuit.kicad_sch")
+		(attr smd)
+		(fp_line
+			(start -3.936144 -1.956591)
+			(end -2.501194 -1.956591)
+			(stroke
+				(width 0.1524)
+				(type solid)
+			)
+			(layer "F.SilkS")
+			(uuid "4a199dd3-7c0d-492d-b91a-2251334421d2")
+		)
+		(fp_line
+			(start -3.936144 1.956591)
+			(end -3.936144 -1.956591)
+			(stroke
+				(width 0.1524)
+				(type solid)
+			)
+			(layer "F.SilkS")
+			(uuid "17b83259-8014-41c6-b617-07c7987152c2")
+		)
+		(fp_line
+			(start -2.501194 1.956591)
+			(end -3.936144 1.956591)
+			(stroke
+				(width 0.1524)
+				(type solid)
+			)
+			(layer "F.SilkS")
+			(uuid "ca26828e-8113-47c0-9b5c-2b9385607f89")
+		)
+		(fp_line
+			(start 2.501194 1.956591)
+			(end 3.936144 1.956591)
+			(stroke
+				(width 0.1524)
+				(type solid)
+			)
+			(layer "F.SilkS")
+			(uuid "2e0f2300-4b04-40c4-b5fb-e1cc68182399")
+		)
+		(fp_line
+			(start 3.936144 -1.956591)
+			(end 2.501194 -1.956591)
+			(stroke
+				(width 0.1524)
+				(type solid)
+			)
+			(layer "F.SilkS")
+			(uuid "ddcc77a9-b8f3-44d3-ae7e-689c0417cedd")
+		)
+		(fp_line
+			(start 3.936144 1.956591)
+			(end 3.936144 -1.956591)
+			(stroke
+				(width 0.1524)
+				(type solid)
+			)
+			(layer "F.SilkS")
+			(uuid "09062221-9149-4ea5-a8b3-96978a0b972c")
+		)
+		(fp_circle
+			(center -3.175006 1.599949)
+			(end -3.145034 1.599949)
+			(stroke
+				(width 0.059995)
+				(type solid)
+			)
+			(fill none)
+			(layer "F.SilkS")
+			(uuid "313dc10c-f14d-4868-b4a9-9ca7cf82ee8d")
+		)
+		(fp_text user "REF**"
+			(at 0 5.956591 0)
+			(layer "F.Fab")
+			(uuid "1c19cded-cd78-44f5-87c8-482c45ced8f8")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(pad "1" smd rect
+			(at -3.066294 0)
+			(size 1.282525 3.456007)
+			(layers "F.Cu" "F.Paste" "F.Mask")
+			(net 44 "Net-(J3-Pin_1)")
+			(pinfunction "1")
+			(pintype "passive")
+			(uuid "5465e90c-2d8b-49cb-8039-bebcf2e3d8a2")
+		)
+		(pad "2" smd rect
+			(at 3.066294 0)
+			(size 1.282525 3.456007)
+			(layers "F.Cu" "F.Paste" "F.Mask")
+			(net 58 "Net-(U6-IN+)")
+			(pinfunction "2")
+			(pintype "passive")
+			(uuid "260b2b13-020a-483c-869c-bd293b2f26b5")
+		)
+		(model "packages3d/R2512.step"
+			(offset
+				(xyz 0.07503159887 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
+		)
+	)
+	(gr_circle
+		(center 146.55 73.81)
+		(end 149.05 74.5)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(fill none)
+		(layer "User.1")
+		(uuid "39975b6d-5702-4ead-bc45-60d82986fafc")
+	)
+	(gr_circle
+		(center 146.55 83.81)
+		(end 149.05 84)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(fill none)
+		(layer "User.1")
+		(uuid "439d6006-aaa0-4fd0-a683-fd15a991ccb8")
+	)
+	(gr_line
+		(start 146.55 73.81)
+		(end 146.55 63.81)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "User.1")
+		(uuid "4f0088c6-b23e-4ea3-aa62-492a83c9c36c")
+	)
+	(gr_circle
+		(center 146.55 63.81)
+		(end 149.05 64.5)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(fill none)
+		(layer "User.1")
+		(uuid "93ae5a79-a38d-4118-8bc3-aad75e940c3a")
+	)
+	(gr_line
+		(start 146.55 100)
+		(end 146.55 101)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "User.1")
+		(uuid "c0990964-2023-4f7c-903d-8ccfcf897785")
+	)
+	(gr_line
+		(start 146.55 110)
+		(end 146.55 83.81)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "User.1")
+		(uuid "c30c980a-76c7-4df0-b9a7-97f06b4a0588")
+	)
+	(gr_line
+		(start 146.55 83.81)
+		(end 146.55 73.81)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "User.1")
+		(uuid "d6de0379-71f2-4e58-b1c0-7323104b85ff")
+	)
+	(gr_line
+		(start 107.85 60.05)
+		(end 107.85 113)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "User.2")
+		(uuid "17342100-ab1c-4eae-8c28-d1ccca19c066")
+	)
+	(gr_line
+		(start 146.5 113)
+		(end 146.5 60.05)
+		(stroke
+			(width 0.2)
+			(type default)
+		)
+		(layer "User.2")
+		(uuid "3d1d7dd5-c6ea-41a6-b61a-55eb8d94dcca")
+	)
+	(gr_line
+		(start 185.15 60.05)
+		(end 185.15 113)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "User.2")
+		(uuid "7cda9f7e-5f8a-4bd3-ad45-cff17afe2252")
+	)
+	(gr_line
+		(start 146.5 60.05)
+		(end 185.15 60.05)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "User.2")
+		(uuid "97e22c07-27b8-44f4-a91c-8ebb91719be9")
+	)
+	(gr_line
+		(start 146.5 60.05)
+		(end 107.85 60.05)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "User.2")
+		(uuid "9b30b55d-7ced-4eba-8bb2-72369e4ec866")
 	)
 )
