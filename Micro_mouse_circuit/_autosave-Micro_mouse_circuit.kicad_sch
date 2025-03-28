@@ -7850,6 +7850,18 @@
 		)
 		(uuid "1e33c0d5-d7ac-4925-a023-20e8d5770a4a")
 	)
+	(text "2"
+		(exclude_from_sim no)
+		(at 109.22 23.368 0)
+		(effects
+			(font
+				(size 2.54 2.54)
+				(thickness 0.508)
+				(bold yes)
+			)
+		)
+		(uuid "2ccb14f3-0126-440e-a503-8e8cf05165e6")
+	)
 	(text "3.3V regulator"
 		(exclude_from_sim no)
 		(at 41.91 209.55 0)
@@ -7859,6 +7871,30 @@
 			)
 		)
 		(uuid "34fcb97f-2f98-47a5-8706-6a9140f5bb26")
+	)
+	(text "4B.1"
+		(exclude_from_sim no)
+		(at 215.9 20.574 0)
+		(effects
+			(font
+				(size 2.54 2.54)
+				(thickness 0.508)
+				(bold yes)
+			)
+		)
+		(uuid "35990db2-25f1-45fa-8ef2-4e60dc5de048")
+	)
+	(text "4C"
+		(exclude_from_sim no)
+		(at 219.456 86.106 0)
+		(effects
+			(font
+				(size 2.54 2.54)
+				(thickness 0.508)
+				(bold yes)
+			)
+		)
+		(uuid "399f8721-8c56-4269-b18c-8b9eb5921787")
 	)
 	(text "Charging IC\n"
 		(exclude_from_sim no)
@@ -7870,6 +7906,18 @@
 		)
 		(uuid "4654cc1c-a75f-4b47-a838-5cdb8d848424")
 	)
+	(text "4A.1"
+		(exclude_from_sim no)
+		(at 120.65 23.368 0)
+		(effects
+			(font
+				(size 2.54 2.54)
+				(thickness 0.508)
+				(bold yes)
+			)
+		)
+		(uuid "4d560619-5b32-4a28-b054-def8de4b80c8")
+	)
 	(text "5V Regulator"
 		(exclude_from_sim no)
 		(at 120.65 73.406 0)
@@ -7879,6 +7927,31 @@
 			)
 		)
 		(uuid "64ffd456-e2be-4fe8-ae1e-bea9f1edf8d9")
+	)
+	(text "4B"
+		(exclude_from_sim no)
+		(at 208.28 21.082 0)
+		(effects
+			(font
+				(size 2.54 2.54)
+				(thickness 0.508)
+				(bold yes)
+			)
+		)
+		(uuid "67e1ee03-7f4a-4066-b9d2-e1ba5438e82d")
+	)
+	(text "-3"
+		(exclude_from_sim no)
+		(at 108.966 33.782 0)
+		(effects
+			(font
+				(size 2.54 2.54)
+				(thickness 0.508)
+				(bold yes)
+				(color 255 0 17 1)
+			)
+		)
+		(uuid "6c006d47-5d08-4a19-bdf1-1956bd330d9e")
 	)
 	(text "Charging current selector"
 		(exclude_from_sim no)
@@ -7890,6 +7963,19 @@
 		)
 		(uuid "77f5da8d-aba2-44f4-b847-d00ab99e05c2")
 	)
+	(text "-4\n"
+		(exclude_from_sim no)
+		(at 73.914 141.732 0)
+		(effects
+			(font
+				(size 2.54 2.54)
+				(thickness 0.508)
+				(bold yes)
+				(color 255 0 17 1)
+			)
+		)
+		(uuid "90eafdf6-a828-4b27-898c-406848363c23")
+	)
 	(text "5V Boosted"
 		(exclude_from_sim no)
 		(at 74.93 137.16 0)
@@ -7900,6 +7986,31 @@
 		)
 		(uuid "91137621-d33a-42e6-9505-84215bd0f672")
 	)
+	(text "-1"
+		(exclude_from_sim no)
+		(at 109.22 28.194 0)
+		(effects
+			(font
+				(size 2.54 2.54)
+				(thickness 0.508)
+				(bold yes)
+				(color 255 0 17 1)
+			)
+		)
+		(uuid "92854c31-e1fa-4baf-833a-049444402f9e")
+	)
+	(text "4A"
+		(exclude_from_sim no)
+		(at 72.136 80.772 0)
+		(effects
+			(font
+				(size 2.54 2.54)
+				(thickness 0.508)
+				(bold yes)
+			)
+		)
+		(uuid "9c4ecb4c-2874-491a-9242-d5d14b5957b4")
+	)
 	(text "Switch"
 		(exclude_from_sim no)
 		(at 128.27 17.526 0)
@@ -7909,6 +8020,18 @@
 			)
 		)
 		(uuid "ad33f539-670d-4deb-898a-ed95738f22d8")
+	)
+	(text "3"
+		(exclude_from_sim no)
+		(at 84.582 78.74 0)
+		(effects
+			(font
+				(size 2.54 2.54)
+				(thickness 0.508)
+				(bold yes)
+			)
+		)
+		(uuid "ae01d879-605d-46c2-bf11-651489fe4191")
 	)
 	(text "Need to find suitable configuration of capacitors"
 		(exclude_from_sim no)
@@ -7924,7 +8047,7 @@
 	)
 	(text "1"
 		(exclude_from_sim no)
-		(at 19.05 24.13 0)
+		(at 17.6153 22.8654 0)
 		(effects
 			(font
 				(size 2.54 2.54)
@@ -7943,6 +8066,41 @@
 			)
 		)
 		(uuid "d8e310f5-7687-4819-9828-a90c56b608bd")
+	)
+	(text "-2"
+		(exclude_from_sim no)
+		(at 19.05 114.046 0)
+		(effects
+			(font
+				(size 2.54 2.54)
+				(thickness 0.508)
+				(bold yes)
+				(color 255 0 17 1)
+			)
+		)
+		(uuid "dba4d26d-c234-4dc3-abf3-fd799020f477")
+	)
+	(text "4C.1"
+		(exclude_from_sim no)
+		(at 226.06 20.574 0)
+		(effects
+			(font
+				(size 2.54 2.54)
+				(thickness 0.508)
+				(bold yes)
+			)
+		)
+		(uuid "dc2bc4f6-1de0-48a6-9fff-b54d6412a146")
+	)
+	(text "2"
+		(exclude_from_sim no)
+		(at 49.022 21.336 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "e6a6045b-b0c3-489c-890b-6626ed9477f5")
 	)
 	(text "Motor 1 - Motor 4"
 		(exclude_from_sim no)
