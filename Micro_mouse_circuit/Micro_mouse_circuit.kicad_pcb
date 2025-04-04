@@ -144,7 +144,7 @@
 	(footprint "Package_TO_SOT_SMD:SOT-23-8"
 		(layer "F.Cu")
 		(uuid "074b13d5-5ca7-4b3f-9c2b-d95e6269f4ef")
-		(at 176 99)
+		(at 221.3625 103.175)
 		(descr "SOT, 8 Pin (JEDEC MO-178 Var BA https://www.jedec.org/document_search?search_api_views_fulltext=MO-178), generated with kicad-footprint-generator ipc_gullwing_generator.py")
 		(tags "SOT TO_SOT_SMD")
 		(property "Reference" "U6"
@@ -458,7 +458,7 @@
 	(footprint "xxcustom_footprint:L0805"
 		(layer "F.Cu")
 		(uuid "0ead9a53-e805-40e8-8ff4-3f120d84c9a2")
-		(at 152.533782 67.713996)
+		(at 234.533782 75.286004)
 		(descr "L0805 footprint")
 		(tags "L0805 footprint C1046")
 		(property "Reference" "L2"
@@ -719,7 +719,7 @@
 	(footprint "xxcustom_footprint:SW-TH_XKB_SK22D15L7"
 		(layer "F.Cu")
 		(uuid "1396cf69-d3bc-4ce2-a1ca-47081fb3af10")
-		(at 116.5 111.249936)
+		(at 196 129.5)
 		(descr "SW-TH_XKB_SK22D15L7 footprint")
 		(tags "SW-TH_XKB_SK22D15L7 footprint C2884795")
 		(property "Reference" "U2"
@@ -1052,7 +1052,7 @@
 	(footprint "xxcustom_footprint:SC-70-6_L2.2-W1.3-P0.65-LS2.1-BR"
 		(layer "F.Cu")
 		(uuid "16ceeafe-709b-44bf-924c-29160e62a998")
-		(at 205 97)
+		(at 237.550038 93)
 		(descr "SC-70-6_L2.2-W1.3-P0.65-LS2.1-BR footprint")
 		(tags "SC-70-6_L2.2-W1.3-P0.65-LS2.1-BR footprint C38663")
 		(property "Reference" "U5"
@@ -1274,7 +1274,7 @@
 	(footprint "xxcustom_footprint:R0402"
 		(layer "F.Cu")
 		(uuid "19fe94ee-7d78-454a-a736-8fe9c173f6cf")
-		(at 184.067183 86)
+		(at 230.567183 90.5)
 		(descr "R0402 footprint")
 		(tags "R0402 footprint C4109")
 		(property "Reference" "R6"
@@ -1453,7 +1453,7 @@
 	(footprint "xxcustom_footprint:ESOP-8_L4.9-W3.9-P1.27-LS6.0-BL-EP"
 		(layer "F.Cu")
 		(uuid "26af3f6b-39ce-4437-a131-164c6fd63020")
-		(at 164 90.5)
+		(at 246 98.072008)
 		(descr "ESOP-8_L4.9-W3.9-P1.27-LS6.0-BL-EP footprint")
 		(tags "ESOP-8_L4.9-W3.9-P1.27-LS6.0-BL-EP footprint C382139")
 		(property "Reference" "U4"
@@ -1732,7 +1732,7 @@
 	(footprint "xxcustom_footprint:R0402"
 		(layer "F.Cu")
 		(uuid "3448a63f-3707-4c71-b405-78cf6984e552")
-		(at 179.567183 86.5)
+		(at 223.134366 79.5)
 		(descr "R0402 footprint")
 		(tags "R0402 footprint C4109")
 		(property "Reference" "R4"
@@ -1870,7 +1870,7 @@
 			(uuid "4af7e4a9-2c5b-4582-9d11-1ff8ecf66d4a")
 		)
 		(fp_text user "REF**"
-			(at 0 4.498603 0)
+			(at 45.3625 8.673603 0)
 			(layer "F.Fab")
 			(uuid "5303bb65-6e1f-461e-afec-1935ef7032e0")
 			(effects
@@ -1911,7 +1911,7 @@
 	(footprint "xxcustom_footprint:R0402"
 		(layer "F.Cu")
 		(uuid "5d68fbf5-b3e2-41d8-b289-b8cea42d9186")
-		(at 188.567183 86)
+		(at 218.067183 80)
 		(descr "R0402 footprint")
 		(tags "R0402 footprint C4109")
 		(property "Reference" "R5"
@@ -2090,7 +2090,7 @@
 	(footprint "xxcustom_footprint:R0402"
 		(layer "F.Cu")
 		(uuid "5db66ccc-1bea-4c0c-8d81-b726aeb223b8")
-		(at 183.780523 95.22324)
+		(at 230.280523 99.72324)
 		(descr "R0402 footprint")
 		(tags "R0402 footprint C4109")
 		(property "Reference" "R7"
@@ -2269,7 +2269,7 @@
 	(footprint "Connector_JST:JST_PH_S2B-PH-K_1x02_P2.00mm_Horizontal"
 		(layer "F.Cu")
 		(uuid "656735df-5e92-497d-9078-7e8318744715")
-		(at 175 109.5)
+		(at 220.3625 113.675)
 		(descr "JST PH series connector, S2B-PH-K (http://www.jst-mfg.com/product/pdf/eng/ePH.pdf), generated with kicad-footprint-generator")
 		(tags "connector JST PH top entry")
 		(property "Reference" "J3"
@@ -2797,7 +2797,7 @@
 	(footprint "xxcustom_footprint:TO-263-5_L10.2-W8.9-P1.70-TL"
 		(layer "F.Cu")
 		(uuid "70594d8d-7900-4106-8c75-b49db420a587")
-		(at 172.5 67.5)
+		(at 254.5 75.072008)
 		(descr "TO-263-5_L10.2-W8.9-P1.70-TL footprint")
 		(tags "TO-263-5_L10.2-W8.9-P1.70-TL footprint C10002")
 		(property "Reference" "U3"
@@ -3033,7 +3033,7 @@
 	(footprint "xxcustom_footprint:SMA_L4.3-W2.6-LS5.2-RD"
 		(layer "F.Cu")
 		(uuid "a4f90dcc-c489-40ef-bd73-ed76061a4b7f")
-		(at 158.5 80)
+		(at 240.5 87.572008)
 		(descr "SMA_L4.3-W2.6-LS5.2-RD footprint")
 		(tags "SMA_L4.3-W2.6-LS5.2-RD footprint C8678")
 		(property "Reference" "D1"
@@ -3216,7 +3216,7 @@
 	(footprint "xxcustom_footprint:L0805"
 		(layer "F.Cu")
 		(uuid "ad6ac28b-e4c8-43c8-9f10-eee52cd50948")
-		(at 152.533782 64.427992)
+		(at 234.533782 72)
 		(descr "L0805 footprint")
 		(tags "L0805 footprint C1046")
 		(property "Reference" "L1"
@@ -3477,7 +3477,7 @@
 	(footprint "xxcustom_footprint:L0805"
 		(layer "F.Cu")
 		(uuid "c7b292a6-e7ef-4533-ada6-5aa3f843571d")
-		(at 152.533782 71)
+		(at 234.533782 78.572008)
 		(descr "L0805 footprint")
 		(tags "L0805 footprint C1046")
 		(property "Reference" "L3"
@@ -3738,7 +3738,7 @@
 	(footprint "xxcustom_footprint:TDFN-6_L2.0-W2.0-P0.65-TL-EP"
 		(layer "F.Cu")
 		(uuid "d1eec316-d09e-4986-b54a-d2b62122eb81")
-		(at 123.999924 99.850038)
+		(at 219.499924 122.150013)
 		(descr "TDFN-6_L2.0-W2.0-P0.65-TL-EP footprint")
 		(tags "TDFN-6_L2.0-W2.0-P0.65-TL-EP footprint C22373734")
 		(property "Reference" "U1"
@@ -3753,7 +3753,7 @@
 			)
 		)
 		(property "Value" "HUSB237-AA001-DN06R"
-			(at -0.007963 3.099975 0)
+			(at 79.492037 21.350039 0)
 			(layer "F.Fab")
 			(uuid "eb75ab3e-35f2-4dc7-8792-be7826469287")
 			(effects
@@ -4765,7 +4765,7 @@
 	(footprint "xxcustom_footprint:R0402"
 		(layer "F.Cu")
 		(uuid "f4408361-47e9-4233-8170-d872b1f3d4b7")
-		(at 194.067183 85.5)
+		(at 223.567183 79.5)
 		(descr "R0402 footprint")
 		(tags "R0402 footprint C4109")
 		(property "Reference" "R2"
@@ -4944,7 +4944,7 @@
 	(footprint "xxcustom_footprint:R2512"
 		(layer "F.Cu")
 		(uuid "f85b5330-8f3c-416f-8f66-c69d6510d75e")
-		(at 176.433706 104)
+		(at 221.796206 108.175)
 		(descr "R2512 footprint")
 		(tags "R2512 footprint C459674")
 		(property "Reference" "R8"
