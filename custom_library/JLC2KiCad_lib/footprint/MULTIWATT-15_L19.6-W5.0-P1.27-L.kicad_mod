@@ -1,6 +1,6 @@
-(module "MULTIWATT-15_L19.6-W5.0-P1.27-L" (layer F.Cu) (tedit 67E6A0C4)
+(module "MULTIWATT-15_L19.6-W5.0-P1.27-L" (layer F.Cu) (tedit 67F442C9)
   (descr "MULTIWATT-15_L19.6-W5.0-P1.27-L footprint")
-  (tags "MULTIWATT-15_L19.6-W5.0-P1.27-L footprint C176819")
+  (tags "MULTIWATT-15_L19.6-W5.0-P1.27-L footprint C19922")
   (attr through_hole)
   (fp_text reference REF** (at 0 -9.089992) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))

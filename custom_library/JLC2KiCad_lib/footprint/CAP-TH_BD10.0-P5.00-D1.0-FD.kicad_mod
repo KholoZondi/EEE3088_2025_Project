@@ -1,4 +1,4 @@
-(module "CAP-TH_BD10.0-P5.00-D1.0-FD" (layer F.Cu) (tedit 67E69D2B)
+(module "CAP-TH_BD10.0-P5.00-D1.0-FD" (layer F.Cu) (tedit 67F41E52)
   (descr "CAP-TH_BD10.0-P5.00-D1.0-FD footprint")
   (tags "CAP-TH_BD10.0-P5.00-D1.0-FD footprint C23777")
   (attr through_hole)
