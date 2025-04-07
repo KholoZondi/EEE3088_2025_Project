@@ -1,4 +1,4 @@
-24734447706090816
+24736191765122077
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -99372,6 +99372,13 @@ CAP-SMD_L3.2-W1.6-RD-C7171 footprint C7171
 2
 2
 xxcustom_footprint
+CAP-TH_BD8.0-P3.50-D0.6-FD
+CAP-TH_BD8.0-P3.50-D0.6-FD footprint
+CAP-TH_BD8.0-P3.50-D0.6-FD footprint C698148
+0
+2
+2
+xxcustom_footprint
 CAP-TH_BD10.0-P5.00-D1.0-FD
 CAP-TH_BD10.0-P5.00-D1.0-FD footprint
 CAP-TH_BD10.0-P5.00-D1.0-FD footprint C23777
@@ -99437,7 +99444,7 @@ R0805 footprint C4382
 xxcustom_footprint
 R1206
 R1206 footprint
-R1206 footprint C17902
+R1206 footprint C17928
 0
 2
 2
