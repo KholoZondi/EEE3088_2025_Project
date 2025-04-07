@@ -6131,6 +6131,12 @@
 		(uuid "02c33e1b-655b-4a27-9e78-24e39585b3ba")
 	)
 	(junction
+		(at 226.06 50.8)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "06faba13-0513-4d1d-80ff-ed9946dc2cf1")
+	)
+	(junction
 		(at 125.73 101.6)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -6165,6 +6171,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "3a2c79f7-ec01-4cb2-b4e3-94fb837aecb3")
+	)
+	(junction
+		(at 255.27 34.29)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "54e4bfb8-1bf7-4375-a3ed-40e61df11702")
 	)
 	(junction
 		(at 252.73 46.99)
@@ -6541,6 +6553,16 @@
 			(type default)
 		)
 		(uuid "199dd7fc-05d3-4305-a0d8-50545dbdbbb2")
+	)
+	(wire
+		(pts
+			(xy 213.36 22.86) (xy 213.36 50.8)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1cd7b609-3a2d-4d27-bbf8-15c47ceadfc5")
 	)
 	(wire
 		(pts
@@ -6974,13 +6996,13 @@
 	)
 	(wire
 		(pts
-			(xy 252.73 34.29) (xy 255.27 34.29)
+			(xy 213.36 50.8) (xy 226.06 50.8)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "408a255c-503b-4c4e-8b8a-eccaf6b551af")
+		(uuid "40f72f5b-5d43-4f12-9f5b-b08194c26e81")
 	)
 	(wire
 		(pts
@@ -7074,6 +7096,16 @@
 	)
 	(wire
 		(pts
+			(xy 226.06 50.8) (xy 226.06 57.15)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5203b7fd-f898-4dfc-9bf6-2ae08d75da34")
+	)
+	(wire
+		(pts
 			(xy 267.97 59.69) (xy 273.05 59.69)
 		)
 		(stroke
@@ -7094,7 +7126,7 @@
 	)
 	(wire
 		(pts
-			(xy 227.33 36.83) (xy 218.44 36.83)
+			(xy 227.33 36.83) (xy 219.71 36.83)
 		)
 		(stroke
 			(width 0)
@@ -7734,7 +7766,7 @@
 	)
 	(wire
 		(pts
-			(xy 226.06 49.53) (xy 226.06 57.15)
+			(xy 226.06 41.91) (xy 226.06 50.8)
 		)
 		(stroke
 			(width 0)
@@ -8334,7 +8366,7 @@
 	)
 	(wire
 		(pts
-			(xy 218.44 36.83) (xy 218.44 25.4)
+			(xy 219.71 36.83) (xy 219.71 30.48)
 		)
 		(stroke
 			(width 0)
@@ -8394,6 +8426,26 @@
 	)
 	(wire
 		(pts
+			(xy 264.16 34.29) (xy 266.7 34.29)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "dc8259c3-3544-42fb-8837-7e9106f5351f")
+	)
+	(wire
+		(pts
+			(xy 255.27 34.29) (xy 255.27 22.86)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "dd7cb10b-f4b6-4eb7-8cf9-853a5d6134aa")
+	)
+	(wire
+		(pts
 			(xy 101.6 99.06) (xy 102.87 99.06)
 		)
 		(stroke
@@ -8431,6 +8483,26 @@
 			(type default)
 		)
 		(uuid "e28ae489-3e6c-409e-9144-61d71c469ec9")
+	)
+	(wire
+		(pts
+			(xy 213.36 22.86) (xy 255.27 22.86)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e3384392-1c63-4c9c-ab69-71d5fd0ce0eb")
+	)
+	(wire
+		(pts
+			(xy 252.73 34.29) (xy 255.27 34.29)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e3970f97-f9f8-4868-81d5-bbecfed5712d")
 	)
 	(polyline
 		(pts
@@ -8611,6 +8683,16 @@
 			(type default)
 		)
 		(uuid "f5fbc32f-3818-4ffa-abf0-2ee5ea0e95e1")
+	)
+	(wire
+		(pts
+			(xy 255.27 34.29) (xy 256.54 34.29)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f60ea7ad-75db-4414-a735-935dd615c436")
 	)
 	(wire
 		(pts
@@ -9015,7 +9097,7 @@
 		(uuid "0a19842e-eb76-4d68-86fd-0fd2d25ff510")
 	)
 	(label "5V"
-		(at 255.27 34.29 0)
+		(at 266.7 34.29 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9227,7 +9309,7 @@
 		(uuid "4d2dc129-45eb-42e1-b042-03c9aa53c0f0")
 	)
 	(label "R_prog"
-		(at 218.44 25.4 0)
+		(at 219.71 30.48 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9842,7 +9924,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "Resistor C17902"
 			(at 201.93 232.41 0)
 			(effects
 				(font
@@ -10058,6 +10140,74 @@
 			(project "Micro_mouse_final"
 				(path "/0476620a-14c2-42c7-a46f-854d17e2e160"
 					(reference "#PWR12")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R")
+		(at 260.35 34.29 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "0d824e49-b293-4021-ad50-eb4bc3392681")
+		(property "Reference" "R9"
+			(at 260.35 27.94 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "0"
+			(at 260.35 30.48 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "xxcustom_footprint:C1206"
+			(at 260.35 36.068 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://jlcpcb.com/parts/componentSearch?searchTxt=47k%CE%A9"
+			(at 260.35 34.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 260.35 34.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "a4d71efa-0032-42fb-b81f-400cb0dee623")
+		)
+		(pin "1"
+			(uuid "63d76188-416f-4ac3-ba73-08a96f91fa15")
+		)
+		(instances
+			(project "Micro_mouse_final"
+				(path "/0476620a-14c2-42c7-a46f-854d17e2e160"
+					(reference "R9")
 					(unit 1)
 				)
 			)
@@ -10309,7 +10459,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "0603WAF7502T5E"
+		(property "Value" "75k"
 			(at 77.47 52.0699 90)
 			(effects
 				(font
@@ -10528,7 +10678,7 @@
 				)
 			)
 		)
-		(property "Footprint" "xxcustom_footprint:C1206"
+		(property "Footprint" "xxcustom_footprint:R1206"
 			(at 201.93 182.118 90)
 			(effects
 				(font
@@ -10546,7 +10696,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "Resistor C17902"
 			(at 201.93 180.34 0)
 			(effects
 				(font
@@ -10818,7 +10968,7 @@
 				)
 			)
 		)
-		(property "Footprint" "xxcustom_footprint:R0402"
+		(property "Footprint" "xxcustom_footprint:R1206"
 			(at 263.906 43.434 90)
 			(effects
 				(font
@@ -11080,7 +11230,7 @@
 				)
 			)
 		)
-		(property "Value" "6k"
+		(property "Value" "5.6k"
 			(at 262.89 90.17 90)
 			(effects
 				(font
@@ -11097,7 +11247,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "C4382"
 			(at 262.89 93.98 0)
 			(effects
 				(font
@@ -11204,10 +11354,9 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "335fc233-577d-411d-9b09-b3ecfbcac488")
 		(property "Reference" "C3"
-			(at 91.44 154.9399 0)
+			(at 81.534 155.194 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11216,7 +11365,7 @@
 			)
 		)
 		(property "Value" "22uF"
-			(at 91.44 157.4799 0)
+			(at 81.534 157.734 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12097,7 +12246,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "USB Power-Only 6P Type-C Receptacle connector"
+		(property "Description" "USB Power-Only 6P Type-C Receptacle connector: C5187463"
 			(at 39.37 45.72 0)
 			(effects
 				(font
@@ -12488,7 +12637,7 @@
 				)
 			)
 		)
-		(property "Value" "10uH"
+		(property "Value" "10u"
 			(at 100.33 146.05 90)
 			(effects
 				(font
@@ -12731,7 +12880,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "0805W8F4702T5E"
+		(property "Value" "47k"
 			(at 90.17 247.6499 90)
 			(effects
 				(font
@@ -12760,7 +12909,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "0805W8F4702T5E"
 			(at 87.63 246.38 0)
 			(effects
 				(font
@@ -13031,75 +13180,6 @@
 			(project ""
 				(path "/0476620a-14c2-42c7-a46f-854d17e2e160"
 					(reference "C1")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:R_US")
-		(at 226.06 45.72 180)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "7f8a98b8-ec36-4365-aa84-b3a09f379f33")
-		(property "Reference" "R11"
-			(at 221.742 44.704 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "0.4"
-			(at 221.742 47.244 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" "xxcustom_footprint:R0402"
-			(at 225.044 45.466 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 226.06 45.72 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Resistor, US symbol"
-			(at 226.06 45.72 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "97255c4c-e4db-4b78-b1aa-2e4b7036efe9")
-		)
-		(pin "1"
-			(uuid "5d35cdba-b743-47cd-aa68-2e412701687e")
-		)
-		(instances
-			(project "Micro_mouse_final"
-				(path "/0476620a-14c2-42c7-a46f-854d17e2e160"
-					(reference "R11")
 					(unit 1)
 				)
 			)
@@ -13437,7 +13517,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://jlcpcb.com/parts/componentSearch?searchTxt=47k%CE%A9"
+		(property "Datasheet" "https://jlcpcb.com/partdetail/18401-0805W8F4702T5E/C17713"
 			(at 111.76 165.1 0)
 			(effects
 				(font
@@ -13927,7 +14007,7 @@
 				)
 			)
 		)
-		(property "Footprint" "xxcustom_footprint:C1206"
+		(property "Footprint" "xxcustom_footprint:R1206"
 			(at 244.094 92.964 90)
 			(effects
 				(font
@@ -13936,7 +14016,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "~C17944"
 			(at 243.84 93.98 0)
 			(effects
 				(font
@@ -14136,7 +14216,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "0805W8F2702T5E"
+		(property "Value" "27k"
 			(at 90.17 233.6799 90)
 			(effects
 				(font
@@ -14165,7 +14245,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "0805W8F2702T5E"
 			(at 87.63 232.41 0)
 			(effects
 				(font
@@ -15118,7 +15198,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "xxcustom_footprint:C1206"
+		(property "Footprint" "xxcustom_footprint:R1206"
 			(at 109.982 175.26 90)
 			(effects
 				(font
@@ -15759,7 +15839,7 @@
 				)
 			)
 		)
-		(property "Footprint" "xxcustom_footprint:R0402"
+		(property "Footprint" "xxcustom_footprint:R1206"
 			(at 272.034 40.386 90)
 			(effects
 				(font
@@ -15838,7 +15918,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "~C459674"
 			(at 33.02 101.6 0)
 			(effects
 				(font
