@@ -1,4 +1,4 @@
-(module "RES-ARRAY-SMD_0402-8P-L2.0-W1.0-BL" (layer F.Cu) (tedit 67F4DFAD)
+(module "RES-ARRAY-SMD_0402-8P-L2.0-W1.0-BL" (layer F.Cu) (tedit 67F628EF)
   (descr "RES-ARRAY-SMD_0402-8P-L2.0-W1.0-BL footprint")
   (tags "RES-ARRAY-SMD_0402-8P-L2.0-W1.0-BL footprint C2002")
   (attr smd)

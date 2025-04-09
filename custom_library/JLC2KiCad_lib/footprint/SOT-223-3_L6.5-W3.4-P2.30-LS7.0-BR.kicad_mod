@@ -1,4 +1,4 @@
-(module "SOT-223-3_L6.5-W3.4-P2.30-LS7.0-BR" (layer F.Cu) (tedit 67F43FBC)
+(module "SOT-223-3_L6.5-W3.4-P2.30-LS7.0-BR" (layer F.Cu) (tedit 67F638D1)
   (descr "SOT-223-3_L6.5-W3.4-P2.30-LS7.0-BR footprint")
   (tags "SOT-223-3_L6.5-W3.4-P2.30-LS7.0-BR footprint C6186")
   (attr smd)
