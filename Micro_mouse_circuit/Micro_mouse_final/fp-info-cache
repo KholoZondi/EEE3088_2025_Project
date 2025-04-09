@@ -1,4 +1,4 @@
-24743190667385974
+24748423335454608
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -99365,6 +99365,20 @@ CAP-SMD_BD6.3-L6.6-W6.6-FD footprint C2833309
 2
 2
 xxcustom_footprint
+CAP-SMD_BD6.3-L6.6-W6.6-LS7.6-FD
+CAP-SMD_BD6.3-L6.6-W6.6-LS7.6-FD footprint
+CAP-SMD_BD6.3-L6.6-W6.6-LS7.6-FD footprint C2858856
+0
+2
+2
+xxcustom_footprint
+CAP-SMD_BD12.5-L13.0-W13.0-RD
+CAP-SMD_BD12.5-L13.0-W13.0-RD footprint
+CAP-SMD_BD12.5-L13.0-W13.0-RD footprint C90272
+0
+2
+2
+xxcustom_footprint
 CAP-SMD_L3.2-W1.6-RD-C7171
 CAP-SMD_L3.2-W1.6-RD-C7171 footprint
 CAP-SMD_L3.2-W1.6-RD-C7171 footprint C7171
@@ -99430,7 +99444,7 @@ R0402 footprint C4109
 xxcustom_footprint
 R0603
 R0603 footprint
-R0603 footprint C4190
+R0603 footprint C4275
 0
 2
 2
@@ -99476,6 +99490,13 @@ SMA_L4.3-W2.6-LS5.2-RD footprint C8678
 0
 2
 2
+xxcustom_footprint
+SOT-23-3_L2.9-W1.3-P1.90-LS2.4-BR
+SOT-23-3_L2.9-W1.3-P1.90-LS2.4-BR footprint
+SOT-23-3_L2.9-W1.3-P1.90-LS2.4-BR footprint C6749
+0
+3
+3
 xxcustom_footprint
 SOT-23-6_L2.9-W1.6-P0.95-LS2.8-BL
 SOT-23-6_L2.9-W1.6-P0.95-LS2.8-BL footprint
